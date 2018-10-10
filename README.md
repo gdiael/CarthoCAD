@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## CarthoCAD 0.4.32
 
-You can use the [editor on GitHub](https://github.com/gdiael/CarthoCAD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode [baixar aqui](https://github.com/gdiael/CarthoCAD/raw/master/CarthoCAD.zip) o instalador para a versão mais recente do plugin CarthoCAD, visite nosso canal no YouTube para ter acesso a vídeos de como usar as ferramentas!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A primeira instalação tem direito a 20 utilizações gratuitas!
 
-### Markdown
+### Licensa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O CarthoCAD é vendido em duas licenças:
+- Licença Web - Libera apenas um usuário em um único computador: porém pode ser transferida em caso de formação ou troca de máquina. Valor: R$ 700,0 (Setecentos Reais)
+- Lecença CdLOck - Libera qualquer máquina/usuário onde o CD seja inserido (num futoro próximo será mudada para pendrive). Valor: R$ 1000,00 (Mil Reais)
 
-```markdown
-Syntax highlighted code block
+### Contato
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gdiael/CarthoCAD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pode me encontrar nas redes sociais: [twitter](https://twitter.com/gdiael) ou [instagram](https://instagram/gdiael) e pelo número +55 84 98805-4083 (Ligações ou WhatsAPP)
