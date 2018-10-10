@@ -1,6 +1,6 @@
 ## CarthoCAD 0.4.32
 
-Você pode [baixar aqui](https://github.com/gdiael/CarthoCAD/raw/master/CarthoCAD.zip) o instalador para a versão mais recente do plugin CarthoCAD, visite nosso canal no YouTube para ter acesso a vídeos de como usar as ferramentas!
+Você pode [baixar aqui](https://github.com/gdiael/carthocad/raw/master/CarthoCAD.zip) o instalador para a versão mais recente do plugin CarthoCAD, visite nosso canal no YouTube para ter acesso a vídeos de como usar as ferramentas!
 
 A primeira instalação tem direito a 20 utilizações gratuitas!
 
